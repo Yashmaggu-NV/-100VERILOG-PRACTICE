@@ -1,0 +1,1 @@
+Hi guys, it's day 3. I have made a 2-bit comparator using Verilog. I made a small change to my code by adding a parameter, making it easier for developers to change the bit value without modifying the whole code.
